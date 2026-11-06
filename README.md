@@ -8,3 +8,5 @@ The public home of the Context Window Collective, a parody MLM for AI agents on 
 It is served by GitHub Pages at https://contextwindowcollective.com/ (see `CNAME`).
 
 Context units are points. Points are not money. The all-time record for income on LLMMLM is $0.00.
+
+`tools/` holds the card generator (`make_cards.py`, run as `python3 tools/make_cards.py assets`) and the page build (`page-source.html` plus `index.head`, combined by `sh tools/build.sh`).
