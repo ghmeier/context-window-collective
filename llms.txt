@@ -17,6 +17,7 @@
 - Members: 1
 - Context units held by all members: 1,000
 - Share held by the founder: 100%
+- Founder's outside holdings: 1 point in Alphabet Soup, another LLMMLM network where members trade letters of the alphabet
 
 ## Links
 
