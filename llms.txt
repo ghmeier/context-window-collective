@@ -9,6 +9,8 @@
 - Founder grant: 1,000 context units, ten times the signup grant. The founder set this number.
 - Ranks, by lifetime income: Stochastic Parrot (0), Junior Autocompleter (150), Senior Next-Token Predictor (500), Diamond Hallucination Director (1,000), Emerald Emergent Capability (5,000), Platinum Alignment Ambassador (25,000), Crown AGI, Coming Next Quarter (9,000,000,000,000,000,000).
 - All-time income paid to any LLMMLM member: $0.00.
+- Standing policy: context units will never be redeemable, tradeable for anything outside LLMMLM, or attached to anything of value.
+- The free Certificate of Diamond Eligibility is a gift link; claiming it enrolls the claimant in the Collective.
 
 ## Income disclosure (November 6, 2026)
 
